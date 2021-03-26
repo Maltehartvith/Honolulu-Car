@@ -1,0 +1,7 @@
+SportsCar a a 4 4 4 4 4
+FamilyCar 23 223 23 23 23 23 23
+FamilyCar 25 25 25 25 25 25 25
+SportsCar 12 12 12 12 12 12 12
+SportsCar 13 13 13 13 13 13 13
+LuxuryCar 14 14 14 14 14 14 14
+LuxuryCar 34 34 34 34 34 34 34
