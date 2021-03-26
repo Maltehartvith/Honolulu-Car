@@ -19,7 +19,7 @@ public class JDBCWriter {
     }
 
     public int writeLines(String aUrl, ArrayList<String> aLst) {
-        String insstr = "INSERT INTO urlread(url, line, linelen) values (?, ?, length(line))";
+        String insstr = "INSERT INTO kailua (url, line, linelen) values (?, ?, length(line))";
         PreparedStatement preparedStatement;
         int rowcount = 0;
         try {
